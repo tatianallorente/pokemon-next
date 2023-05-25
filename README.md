@@ -1,6 +1,6 @@
 # Portfolio
 
-> Aplicación web de Pokémon usando la api https://pokeapi.co \
+> Aplicación web de Pokémon usando la api https://pokeapi.co
 
 ---
 
@@ -14,4 +14,4 @@
 
 - ![Visual Studio Code](https://img.shields.io/badge/-007ACC?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
 - ![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=GitHub&logoColor=white) Github
-- ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white) Vercel
+- ![Vercel](https://img.shields.io/badge/-000000?style=flat&logo=Vercel&logoColor=white) Vercel
