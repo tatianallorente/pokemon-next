@@ -1,7 +1,7 @@
 # Portfolio
 
 > Aplicación web de Pokémon usando la api pokeapi \
-> (Primera versión, pendiente de añadir nuevas funcionalidades)
+> (Primera versión, pendiente de añadir nuevas funcionalidades) \
 > Demo: https://pokemon-next-tatianallorente.vercel.app
 
 ---
